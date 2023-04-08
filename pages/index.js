@@ -18,7 +18,7 @@ export default function Home({allPostsData  }) {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}</title>
+        <title>ASN-Blog</title>
       </Head> 
       <section className={utilStyles.headingMd}>
         <p>I am Adarsh Nayak, 3rd year Computer Science Engineering Student studying at PES University.  </p>
